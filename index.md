@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: ""
 ---
 
 I am a Tier 2 Media Soultions Support agent for VelocityMSC. 
