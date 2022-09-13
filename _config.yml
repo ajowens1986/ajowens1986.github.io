@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:               
   - {file: "index.html", title: "Home", icon: home}
   - {file: "README.md", title: "Contact", icon: address-card}
-  - {title: "About Me", file: "About Me.md"}
+  - {title: "Blog", file: "blog.md"}
 
 external:                  # see http://fontawesome.com/icons
   - {title: "Mail", icon: envelope, url: "mailto:owensdevelopment6@gmail.com"}
