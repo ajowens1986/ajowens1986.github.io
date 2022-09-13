@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:               
   - {file: "index.html", title: "Home", icon: home}
   - {file: "README.md", title: "Contact", icon: address-card}
-  - {title: "contact", file: "Contact"}
+  - {title: "contact", file: "Contact.md"}
   - {title: "About Me", file: "About Me.md"}
 
 external:                  # see http://fontawesome.com/icons
