@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:               
-  - {file: "index.html", title: "Home", icon: "home"}
-  - {file: "README.md", title: "About Me", icon: "address-card"}
+  - {file: "index.html", title: "Home", icon: home}
+  - {file: "README.md", title: "About Me", icon: address-card}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: "Mail", icon: "envelope", url: "mailto:owensdevelopment6@gmail.com"}
-  - {title: "Github", icon: "github", url: "https://github.com/ajowens1986"}
-  - {title: "Facebook", icon: "rss", url: "https:facebook.com/ashton.owens"}
+  - {title: "Mail", icon: envelope, url: "mailto:owensdevelopment6@gmail.com"}
+  - {title: "Github", icon: github, url: "https://github.com/ajowens1986"}
+  - {title: "Facebook", icon: rss, url: "https:facebook.com/ashton.owens"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
