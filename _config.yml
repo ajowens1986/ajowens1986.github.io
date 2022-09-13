@@ -1,7 +1,7 @@
 title: "Owens Tech Support and Web Development"
 author: "AJ Owens"
 description: "Owens Tech Support and Web Development"
-permalink: /:title/
+permalink: /title:/ 
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:               
-  - {file: "index.html", title: "Home Change", icon: home}
-  - {file: "README.md", title: "About Me", icon: address-card}
+  - {file: "index.html", title: "Home", icon: "home"}
+  - {file: "README.md", title: "About Me", icon: "address-card"}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:owensdevelopment6@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/ajowens1986"}
-  - {title: Facebook, icon: rss, url: "https:facebook.com/ashton.owens"}
+external:                  # see http://fontawesome.com/icons
+  - {title: "Mail", icon: "envelope", url: "mailto:owensdevelopment6@gmail.com"}
+  - {title: "Github", icon: "github", url: "https://github.com/ajowens1986"}
+  - {title: "Facebook", icon: "rss", url: "https:facebook.com/ashton.owens"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
