@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-icon: "address card"
+icon: "address-card"
 ---
 
 {% if site.show_excerpts %}
@@ -9,3 +9,8 @@ icon: "address card"
 {% else %}
   {% include archive.html title="Posts" %}
 {% endif %}
+
+
+Owens Tech Support and Web Depvelopment
+Darlington South Carolina
+owenswebdevelopment6@gmail.com
