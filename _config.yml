@@ -22,7 +22,7 @@ navigation:
 external:                  # see http://fontawesome.com/icons
   - {title: "Mail", icon: envelope, url: "mailto:owensdevelopment6@gmail.com"}
   - {title: "Github", icon: github, url: "https://github.com/ajowens1986"}
-  - {title: "Facebook", icon: Facebook, url: "https:facebook.com/ashton.owens"}
+  - {title: "facebook", icon: facebook, url: "https:facebook.com/ashton.owens/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
