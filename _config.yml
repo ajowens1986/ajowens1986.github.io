@@ -21,7 +21,7 @@ navigation:
   - {title: "About Me", file: "About Me.md"}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: "Mail", icon: envelope, url: "mailto:owensdevelopment6@gmail.com"}
+  - {title: "Mail", icon: envelope, url: "mailto:owenswebdevelopment6@gmail.com"}
   - {title: "Github", icon: github, url: "https://github.com/ajowens1986"}
   - {title: "facebook", icon: facebook, url: "https://www.facebook.com/ashton.owens"}
 
